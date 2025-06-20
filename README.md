@@ -8,7 +8,7 @@ A Python project that combines **real-time object detection** using **YOLOv8** a
 
 
 > Example:  
-> ![demo](assets/cato_pic.png)
+> ![demo](assests/cato_pic.png)
 
 ---
 
